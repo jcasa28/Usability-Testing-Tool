@@ -1,0 +1,22 @@
+venv/
+.DS_Store
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files and credentials
+.env
+*.env
+
+# Streamlit secrets and settings
+.streamlit/
+
+# Generated data files
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS and editor files
+Thumbs.db
